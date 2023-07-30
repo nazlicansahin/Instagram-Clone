@@ -1,4 +1,4 @@
-# Instagram BOotstrap Clone
+# Instagram Bootstrap Clone
 Simple HTML Instagram clone made with Bootstrap.
 I updated the project codes provided to me for correction and fixed the errors.
 
